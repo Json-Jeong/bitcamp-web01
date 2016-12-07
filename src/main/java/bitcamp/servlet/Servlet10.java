@@ -5,7 +5,6 @@ package bitcamp.servlet;
 
 import java.io.IOException;
 import java.io.PrintWriter;
-import java.util.Enumeration;
 
 import javax.servlet.GenericServlet;
 import javax.servlet.ServletException;
